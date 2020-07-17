@@ -1,0 +1,19 @@
+{
+  "name": "ajs-homeworks-workspace-task-3",
+  "version": "1.0.0",
+  "description": "[Домашнее задание 3](https://github.com/kvrdv/ajs-homeworks-workspace-task-3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvrdv/ajs-homeworks-workspace-task-3.git"
+  },
+  "author": "kvrdv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvrdv/ajs-homeworks-workspace-task-3/issues"
+  },
+  "homepage": "https://github.com/kvrdv/ajs-homeworks-workspace-task-3#readme"
+}
